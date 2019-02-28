@@ -1,5 +1,5 @@
 Hello, World!
 
-get('abut', function(){
+get('about', function(){
 	return 'about';
 }
