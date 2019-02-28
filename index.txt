@@ -11,3 +11,7 @@ get('reporting', function(){
 This is laravel 5
 
 change in master
+More changes
+to stash
+Resource('report', 'reportcontroller');
+
