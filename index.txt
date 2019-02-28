@@ -8,4 +8,4 @@ get('reporting', function(){
 	return 'reporting';
 };
 
-
+This is laravel 5
