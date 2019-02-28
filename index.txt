@@ -3,3 +3,9 @@ Hello, World!
 get('about', function(){
 	return 'about';
 }
+
+get('reporting', function(){
+	return 'reporting';
+};
+
+
